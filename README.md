@@ -2,36 +2,31 @@
 
 ## Sobre mim
 
-- 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
-- 💼 Trabalhando como .Net Developer na Renova Soluções em Tecnologia.
-- 🌱 Aprendendo mais sobre angular no momento.
+- 🤔 Explorando novas tecnologias e desenvolvendo soluções de software robustas.
+- 💼 Atuo como **Desenvolvedor Backend** na Renova Soluções em Tecnologia, com foco em desenvolvimento de APIs, integrações e aplicações .NET.
+- 🌱 Atualmente, ampliando conhecimentos em integrações e arquiteturas de microserviços.
 
 ## Minhas Skills
 
-**Aplicações e dados**
+### **Linguagens e Tecnologias**
+![CSharp](https://img.shields.io/badge/-C%23-239120?style=flat&logo=csharp&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+![XAML](https://img.shields.io/badge/-XAML-5C2D91?style=flat&logo=xaml&logoColor=white)
 
-![CSharp](https://img.shields.io/badge/-CSharp-333333?style=flat&logo=csharp&logoColor=007396)
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+### **Frameworks e Tecnologias .NET**
+![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat&logo=.net&logoColor=white)
+![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=flat&logo=aspnet&logoColor=white)
+![Entity Framework](https://img.shields.io/badge/Entity_Framework-563D7C?style=flat&logo=entity-framework&logoColor=white)
+![WPF](https://img.shields.io/badge/WPF-0078D6?style=flat&logo=windows&logoColor=white)
 
-
-**Utilidades**
-
-![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
-
-**DevOps**
-
+### **Ferramentas de Desenvolvimento e DevOps**
+![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D6?style=flat&logo=azure-devops&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-
-**Ferramentas de desenvolvimento**
-
-![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-333333?style=flat&logo=visual-studio&logoColor=5C2D91)
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
-![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
+![GitFlow](https://img.shields.io/badge/GitFlow-FF9900?style=flat)
+![Batch Script](https://img.shields.io/badge/Batch_Script-4F4F4F?style=flat)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat&logo=JSON%20web%20tokens&logoColor=white)
 
 <br/>
 
