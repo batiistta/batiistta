@@ -3,7 +3,7 @@
 ## Sobre mim
 
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software robustas.
-- 💼 Atuo como **Desenvolvedor Backend** na Renova Soluções em Tecnologia, com foco em desenvolvimento de APIs, integrações e aplicações .NET.
+- 💼 Atuo como **Desenvolvedor Backend**, com foco em desenvolvimento de APIs, integrações e aplicações .NET.
 - 🌱 Atualmente, ampliando conhecimentos em integrações e arquiteturas de microserviços.
 
 ## Minhas Skills
